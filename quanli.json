@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Phạm Ánh Ngọc",
+        "address": "Tân Phú",
+        "tel": "0939901164",
+        "email": "phamanhngoc201pan@gmail.com",
+        "password": "123",
+        "employee_id": "QL001",
+        "role": "admin"
+    },
+    {
+        "name": "Phạm Thị Phương Thanh",
+        "address": "Tân Phú",
+        "tel": "0123456789",
+        "email": "thanh@gmail.com",
+        "password": "123",
+        "employee_id": "QL002",
+        "role": "admin"
+    },
+    {
+        "employee_id": "NV001",
+        "name": "Lê Tuyết Ngân",
+        "address": "Gò Vấp",
+        "tel": "0132654645",
+        "email": "ngan@gmail.com",
+        "password": "123",
+        "role": "employee"
+    },
+    {
+        "employee_id": "NV002",
+        "name": "Nguyễn Minh Quân",
+        "address": "Gò Vấp",
+        "tel": "0123456789",
+        "email": "quan@gmail.com",
+        "password": "123",
+        "role": "employee"
+    },
+    {
+        "employee_id": "NV003",
+        "name": "Nguyễn Phi Hùng",
+        "address": "Phú Nhuận",
+        "tel": "0123456789",
+        "email": "hung@gmail.com",
+        "password": "123",
+        "role": "employee"
+    }
+]
